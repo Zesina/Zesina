@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-
+I have lost access to my old account github.com/Gaganhonor
+Device lost ... uff
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Ai Models...
